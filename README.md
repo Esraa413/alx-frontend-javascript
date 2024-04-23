@@ -1,0 +1,1 @@
+EB6 javascript
